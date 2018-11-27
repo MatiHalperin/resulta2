@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Results</string>
+
+    <string name="matchday">Matchday %1$d</string>
+
+    <string name="date" translatable="false">%1$s - %2$s</string>
+
+    <string name="hyphen" translatable="false">-</string>
+    <string name="versus">vs</string>
+
+    <string name="goal_summary" translatable="false">%1$s\'</string>
+    <string name="penalty_goal_summary">%1$s\' (P)</string>
+    <string name="own_goal_summary">%1$s\' (OG)</string>
+
+    <string name="red_card_summary" translatable="false">%1$s %2$s\'</string>
+
+    <string name="referee">Referee:&#160;</string>
+    <string name="transmission">Transmission:&#160;</string>
+
+    <string name="substitution">Substitution</string>
+    <string name="substitution_in">In</string>
+    <string name="substitution_out">Out</string>
+
+    <string name="goal">Goooaaalll!!!</string>
+    <string name="own_goal">Own goal!</string>
+    <string name="missed_penalty">Missed penalty</string>
+    <string name="yellow_card">Yellow card</string>
+    <string name="red_card">Red card</string>
+
+    <string name="minute" translatable="false">%1$s\'</string>
+
+    <string name="player_extra" translatable="false">%1$s · %2$s #%3$d</string>
+
+    <string-array name="positions">
+        <item>Goalkeeper</item>
+        <item>Defender</item>
+        <item>Midfielder</item>
+        <item>Striker</item>
+    </string-array>
+
+    <string name="own_goal_extra">Own Goal</string>
+    <string name="penalty_goal_extra">Penalty Goal</string>
+</resources>

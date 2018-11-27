@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="live">#259B24</color>
+
+    <color name="own_goal">#D0021B</color>
+    <color name="penalty_goal">#259B24</color>
+</resources>

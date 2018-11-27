@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resultados</string>
+
+    <string name="matchday">Jornada %1$d</string>
+
+    <string name="versus">vs.</string>
+
+    <string name="penalty_goal_summary">%1$s\' (P)</string>
+    <string name="own_goal_summary">%1$s\' (GEC)</string>
+
+    <string name="referee">Árbitro:&#160;</string>
+    <string name="transmission">Transmición:&#160;</string>
+
+    <string name="substitution">Cambio</string>
+    <string name="substitution_in">Entra</string>
+    <string name="substitution_out">Sale</string>
+
+    <string name="goal">¡Gooool!</string>
+    <string name="own_goal">¡Autogol!</string>
+    <string name="missed_penalty">Penal errado</string>
+    <string name="yellow_card">Tarjeta amarilla</string>
+    <string name="red_card">Tarjeta roja</string>
+
+    <string-array name="positions">
+        <item>Portero</item>
+        <item>Defensor</item>
+        <item>Mediocampista</item>
+        <item>Delantero</item>
+    </string-array>
+
+    <string name="own_goal_extra">Autogol</string>
+    <string name="penalty_goal_extra">Gol de penal</string>
+</resources>
